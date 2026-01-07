@@ -27,4 +27,4 @@ class ConditionalGenerator(nn.Module):
         x = torch.cat([noise, c], dim=1)
         return self.net(x)
 
-print("ok ConditionalGenerator")
+print("ConditionalGenerator")

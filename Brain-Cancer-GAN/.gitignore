@@ -4,8 +4,4 @@ __pycache__/
 
 # Virtual Environments
 .venv/
-
-# VS Code
-.vscode/
-.venv2/
-.venv2/
+.venv-1/

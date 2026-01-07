@@ -10,3 +10,5 @@ labels = torch.tensor([0, 1]*8).to(device)  # generate 16 images
 noise = torch.randn(16, 100, 1, 1).to(device)
 fake_imgs = G(noise, labels)
 save_image(fake_imgs, "generated_xray.png", normalize=True, nrow=4)
+
+#done gen new images

@@ -46,3 +46,5 @@ for epoch in range(50):
     print(f"Epoch {epoch+1} | D Loss: {loss_D:.4f} | G Loss: {loss_G:.4f}")
 
 print("n")
+
+#done train with cude

@@ -26,4 +26,4 @@ class ConditionalDiscriminator(nn.Module):
         x = torch.cat([img, c], dim=1)
         return self.net(x).view(-1)
 
-print("ok ConditionalDiscriminator")
+print("ConditionalDiscriminator")
