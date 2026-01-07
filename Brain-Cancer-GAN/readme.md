@@ -1,4 +1,4 @@
-# Brain Cancer Image Augmentation using GAN 🧠🔥
+# Chest X-ray Image Augmentation using GAN 🧠🔥
 
 ## 🎯 Project Goal
 
@@ -60,7 +60,7 @@ These mutations help the classifier learn **robust features** instead of overfit
 ## 🧠 GAN Architecture
 
 The GAN consists of:
-- **Generator**: Learns to create realistic brain images with controlled variation
+- **Generator**: Learns to create realistic chest images with controlled variation
 - **Discriminator**: Distinguishes real images from generated ones
 
 Through adversarial training, the Generator learns to:
@@ -71,7 +71,7 @@ Through adversarial training, the Generator learns to:
 
 ## 🖼️ Generated Image Samples
 
-### 🔹 Normal Brain Images (Generated)
+### 🔹 Normal chast Images (Generated)
 Synthetic images representing healthy brain scans with natural variations.
 
 > Example: 24 generated Normal images in a single grid.
@@ -81,12 +81,6 @@ Synthetic images representing healthy brain scans with natural variations.
 --- **image generated sqample 2**
 <img width="1536" height="1024" alt="generated_xray2 png" src="https://github.com/user-attachments/assets/cd94c98e-a7c2-41f2-bf5a-c734729605c5" />
 
-### 🚨 Tumor Brain Images (Generated)
-Synthetic images representing brain tumors with different shapes, thicknesses, and texture patterns.
-
-> Example: 24 generated Tumor images in a single grid.
-
----
 
 ## 📈 Why GAN-based Augmentation?
 
@@ -106,7 +100,7 @@ This approach is especially effective in **medical imaging**, where collecting d
 
 ## 🧪 Use Cases
 
-- Brain tumor classification
+- chest x-ray classification
 - Medical image research
 - Data augmentation for deep learning
 - Training robust CNN models on small datasets
