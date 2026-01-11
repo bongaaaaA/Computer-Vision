@@ -80,7 +80,7 @@ Synthetic images representing healthy brain scans with natural variations.
 <img <img width="1536" height="1024" alt="generated_xray1" src="https://github.com/user-attachments/assets/6f1ab4f8-e8f1-45f9-a7dd-4ff7b1153c27" />
 
 --- **image generated sqample 2**
-<img width="1536" height="1024" alt="generated_xray2 png" src="https://github.com/user-attachments/assets/cd94c98e-a7c2-41f2-bf5a-c734729605c5" />
+<img width="1536" height="1024" alt="generated_xray1" src="https://github.com/user-attachments/assets/65df9d44-3e53-4eea-8b1b-906a125992b6" />
 
 
 ## 📈 Why GAN-based Augmentation?
