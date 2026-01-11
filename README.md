@@ -22,12 +22,11 @@ computer-vision-projects/
 │   ├── transfer_learning_resnet/
 │
 ├── medical_imaging/
-│   ├── chest_xray_classification/
 │   ├── chest_xray_gan/
 │
 ├── generative_models/
-│   ├── gan/
-│   ├── vae/
+│   ├── GAN/
+│   ├── VAE/
 │
 ├── object_detection/
 │   ├── yolov5_custom_dataset/
@@ -36,7 +35,6 @@ computer-vision-projects/
 │   ├── fastapi_service/
 │   ├── gui_application/
 │
-├── requirements.txt
 └── README.md
 ```
 
@@ -146,3 +144,4 @@ Machine Learning / Computer Vision Engineer
 ## ⭐ If you find this repository useful
 
 Please consider giving it a **star ⭐** to support the project.
+
