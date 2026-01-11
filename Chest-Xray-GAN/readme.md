@@ -77,7 +77,7 @@ Synthetic images representing healthy brain scans with natural variations.
 > Example: 24 generated Normal images in a single grid.
 
 --- **image generated sqample 1**
-<img width="1536" height="1024" alt="generated_xray (2)" src="https://github.com/user-attachments/assets/11488295-4339-459c-9f53-bdeaa78fcd45" />
+<img <img width="1536" height="1024" alt="generated_xray1" src="https://github.com/user-attachments/assets/6f1ab4f8-e8f1-45f9-a7dd-4ff7b1153c27" />
 
 --- **image generated sqample 2**
 <img width="1536" height="1024" alt="generated_xray2 png" src="https://github.com/user-attachments/assets/cd94c98e-a7c2-41f2-bf5a-c734729605c5" />
