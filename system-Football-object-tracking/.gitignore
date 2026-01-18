@@ -1,0 +1,22 @@
+#file running prhect
+runs/
+input_vedio/
+output_video/
+stubs/
+trainig/Football-players-detection-1/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+.vscode/
+# Models
+*.pt
+*.pth
+*.onnx
+# Videos
+*.avi
+*.mp4
+*.pkl
