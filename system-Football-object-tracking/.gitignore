@@ -3,6 +3,7 @@ runs/
 input_vedio/
 output_video/
 stubs/
+Football-players-detection-1/
 
 # Python
 __pycache__/
