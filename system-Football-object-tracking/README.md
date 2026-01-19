@@ -36,7 +36,11 @@ The system works in three main stages:
 **Insert your running video or GIF below:**  
 👉 Example: *(replace `DEMO_VIDEO_URL_OR_GIF` with your real link)*
 
-![Demo Running Video]([Uploading output_video.avi…])
+![Demo Running Video]([])
+
+
+https://github.com/user-attachments/assets/627168f6-dd50-488a-817c-afd43d9dd227
+
 
 
 ## 📁 Project Structure
